@@ -1,0 +1,7 @@
+id=GooglePlus
+name=Google Piexl Framework Plus
+version=v2
+versionCode=1
+author=白曦
+description=为你的安卓手机添加一些Pixel特性
+minMagisk=1900
